@@ -8,7 +8,7 @@
 /.vs
 
 *.aps
-*.vcxproject
+*.vcxproj
 *.user
 *.filters
 *.sln
