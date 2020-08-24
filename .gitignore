@@ -1,0 +1,14 @@
+
+/DeskFairy/bin/*
+
+/DeskFairy/obj/*
+
+/DeskFairy/res/*
+
+/.vs
+
+*.aps
+*.vcxproject
+*.user
+*.filters
+*.sln
