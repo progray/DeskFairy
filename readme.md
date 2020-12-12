@@ -1,4 +1,4 @@
-DeskFairy
+# DeskFairy
 
 A desktop pet based on Qt & Live2D
 
