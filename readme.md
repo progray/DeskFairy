@@ -1,5 +1,5 @@
 DeskFairy
 
-A desktop pet based on qt&live2d
+A desktop pet based on Qt & Live2D
 
 Support platform: windows x64
